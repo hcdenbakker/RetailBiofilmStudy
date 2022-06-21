@@ -1,0 +1,15 @@
+SampleID	Type	City
+biofilm-1	Biofilm	A
+biofilm-2	Biofilm	A
+biofilm-3	Biofilm	A
+biofilm-4	Biofilm	A
+biofilm-5	Biofilm	A
+biofilm-7	Biofilm	B
+biofilm-8	Biofilm	B
+biofilm-9	Biofilm	B
+biofilm-10	Biofilm	B
+biofilm-11	Biofilm	C
+biofilm-12	Biofilm	C
+biofilm-13	Biofilm	C
+biofilm-14	Biofilm	C
+biofilm-15	Biofilm	C

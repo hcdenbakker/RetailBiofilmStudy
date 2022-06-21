@@ -1,0 +1,8 @@
+clade_name	9_S272_all_profile	5_S271_all_profile	3_S270_all_profile	2_S269_all_profile	1_S268_all_profile	14_S276_all_profile	13_S275_all_profile	12_S274_all_profile	10_S273_all_profile
+Actinobacteria	6.63124	0	0.12367	17.32272	13.86989	0.18278	0.05255	0.08804	23.49803
+Bacteroidetes	1.75262	1.01276	0.00488	14.90895	3.30833	1.70129	3.1877	0.11071	49.96459
+Chlamydiae	0	0	0	0	1.00323	0	0	0	0
+Firmicutes	6.32654	0	0.80116	3.56409	0	0	0	0	0
+Gemmatimonadetes	0	0	0	0.53317	0	0	0	0	0.10989
+Planctomycetes	0	0	0	0	0.83013	0	0	0	0
+Proteobacteria	85.28959	98.98724	99.07029	63.67107	80.98842	98.11593	96.75975	99.80125	26.42749

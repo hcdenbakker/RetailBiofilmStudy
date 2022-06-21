@@ -1,0 +1,15 @@
+Sample	Sponge number	Drain	City
+RS553	RS553	drain_1	A
+RS636	RS636	drain_2	A
+RS560	RS560	drain_3	A
+RS544	RS544	drain_4	A
+RS581	RS581	drain_5	A
+RS736	RS736	drain_7	B
+RS750	RS750	drain_8	B
+RS703	RS703	drain_9	B
+RS739	RS739	drain_10	B
+RS638	RS638	drain_11	C
+RS709	RS709	drain_12	C
+RS630	RS630	drain_13	C
+RS731	RS731	drain_14	C
+RS697	RS697	drain_15	C
